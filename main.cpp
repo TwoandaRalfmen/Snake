@@ -23,6 +23,7 @@ int nScore = 0;
 const sf::Color food_color = sf::Color::Color(231, 71, 29);
 int nfoodX = 300;
 int nfoodY = 800;
+int a = 1;
 
 int main(){
 	
